@@ -2,15 +2,15 @@
 
 Computer Engineering undergrad at **Thapar Institute of Engineering and Technology** (CGPA 9.21) building at the intersection of **backend engineering, applied ML and security**.
 
-- 🔬 Undergraduate researcher on **HARVELL**, fine-tuning **Qwen2.5-Coder** with LoRA to reverse-engineer FPGA designs (Verilog → C)
-- 🛡️ Former **Cybersecurity Intern** at Athenian Tech: VAPT on client web apps and REST APIs, plus Python/Bash recon automation
-- 🛠️ I like building things that are tested, reproducible and deployed, not just demoed
-- 🎯 Open to **SDE / SWE internship** roles
+-  Undergraduate researcher on **HARVELL**, fine-tuning **Qwen2.5-Coder** with LoRA to reverse-engineer FPGA designs (Verilog → C)
+-  Former **Cybersecurity Intern** at Athenian Tech: VAPT on client web apps and REST APIs, plus Python/Bash recon automation
+-  I like building things that are tested, reproducible and deployed, not just demoed
+-  Open to **SDE / SWE internship** roles
 
-## 🌐 Connect
+##  Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiesha-kapoor-6a2b071a7/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kapoorkiesha@gmail.com)
 
-## 🚀 Featured Work
+##  Featured Work
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -21,7 +21,7 @@ Computer Engineering undergrad at **Thapar Institute of Engineering and Technolo
 | [**CyberShield-AI**](https://github.com/kieshaaaa/Cybershield--AI) | ML intrusion detection on CICIDS2017, comparing Random Forest and Logistic Regression | Python, scikit-learn, pandas |
 | [**Aircraft Engine RUL**](https://github.com/kieshaaaa/aircraft-enginer-rul-prediction) | Remaining-useful-life prediction on NASA C-MAPSS with classical models, LSTM/GRU/1D CNN and SHAP | Python, XGBoost, TensorFlow, SHAP |
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
